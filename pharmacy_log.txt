@@ -1,0 +1,55 @@
+2026-11-24T05:38:45.861691800 | Medicine added: Paracetamol 500mg (ID 101)
+2026-11-24T05:38:45.868092 | Medicine added: Amoxicillin 250mg (ID 102)
+2026-11-24T05:38:45.869266500 | Medicine added: Cough Syrup (ID 103)
+2026-11-24T05:38:45.869266500 | Medicine added: Insulin Injection (ID 104)
+2026-11-24T05:38:45.870272900 | Medicine added: Cetirizine 10mg (ID 105)
+2026-11-24T05:38:45.905209400 | Batch added: P-101 for medicine ID 101, qty 100
+2026-11-24T05:38:45.905209400 | Batch added: P-102 for medicine ID 101, qty 40
+2026-11-24T05:38:45.906219 | Batch added: A-201 for medicine ID 102, qty 6
+2026-11-24T05:38:45.907216600 | Batch added: A-202 for medicine ID 102, qty 20
+2026-11-24T05:38:45.907216600 | Batch added: C-301 for medicine ID 103, qty 15
+2026-11-24T05:38:45.907216600 | Batch added: I-401 for medicine ID 104, qty 8
+2026-11-24T05:38:45.908217800 | Batch added: Z-501 for medicine ID 105, qty 80
+2026-11-24T05:38:45.988243100 | Application started
+2026-11-24T05:42:32.303006500 | Medicine added: Paracetamol 500mg (ID 101)
+2026-11-24T05:42:32.309005700 | Medicine added: Amoxicillin 250mg (ID 102)
+2026-11-24T05:42:32.310007200 | Medicine added: Cough Syrup (ID 103)
+2026-11-24T05:42:32.311006600 | Medicine added: Insulin Injection (ID 104)
+2026-11-24T05:42:32.312007900 | Medicine added: Cetirizine 10mg (ID 105)
+2026-11-24T05:42:32.326006700 | Batch added: P-101 for medicine ID 101, qty 100
+2026-11-24T05:42:32.327007100 | Batch added: P-102 for medicine ID 101, qty 40
+2026-11-24T05:42:32.328008200 | Batch added: A-201 for medicine ID 102, qty 6
+2026-11-24T05:42:32.329009200 | Batch added: A-202 for medicine ID 102, qty 20
+2026-11-24T05:42:32.330012 | Batch added: C-301 for medicine ID 103, qty 15
+2026-11-24T05:42:32.331006200 | Batch added: I-401 for medicine ID 104, qty 8
+2026-11-24T05:42:32.332011700 | Batch added: Z-501 for medicine ID 105, qty 80
+2026-11-24T05:42:32.337009300 | Application started
+2026-11-24T05:43:35.869361800 | Medicine added: Paracetamol 500mg (ID 101)
+2026-11-24T05:43:35.872376600 | Medicine added: Amoxicillin 250mg (ID 102)
+2026-11-24T05:43:35.872376600 | Medicine added: Cough Syrup (ID 103)
+2026-11-24T05:43:35.873359800 | Medicine added: Insulin Injection (ID 104)
+2026-11-24T05:43:35.874363500 | Medicine added: Cetirizine 10mg (ID 105)
+2026-11-24T05:43:35.884358100 | Batch added: P-101 for medicine ID 101, qty 100
+2026-11-24T05:43:35.885363800 | Batch added: P-102 for medicine ID 101, qty 40
+2026-11-24T05:43:35.885363800 | Batch added: A-201 for medicine ID 102, qty 6
+2026-11-24T05:43:35.886384100 | Batch added: A-202 for medicine ID 102, qty 20
+2026-11-24T05:43:35.886384100 | Batch added: C-301 for medicine ID 103, qty 15
+2026-11-24T05:43:35.887363100 | Batch added: I-401 for medicine ID 104, qty 8
+2026-11-24T05:43:35.887363100 | Batch added: Z-501 for medicine ID 105, qty 80
+2026-11-24T05:43:35.891362400 | Application started
+2026-11-24T05:44:10.534953200 | Dispensed 1 units of medicine ID 102
+2026-11-24T05:44:10.555951700 | Dispensed 1 x Amoxicillin 250mg
+2026-11-24T05:44:17.610410900 | Bill #1 generated, total Rs.13.44
+2026-11-24T05:55:41.806836800 | Medicine added: Paracetamol 500mg (ID 101)
+2026-11-24T05:55:41.808877700 | Medicine added: Amoxicillin 250mg (ID 102)
+2026-11-24T05:55:41.810200900 | Medicine added: Cough Syrup (ID 103)
+2026-11-24T05:55:41.811214600 | Medicine added: Insulin Injection (ID 104)
+2026-11-24T05:55:41.811214600 | Medicine added: Cetirizine 10mg (ID 105)
+2026-11-24T05:55:41.819249 | Batch added: P-101 for medicine ID 101, qty 100
+2026-11-24T05:55:41.819249 | Batch added: P-102 for medicine ID 101, qty 40
+2026-11-24T05:55:41.819249 | Batch added: A-201 for medicine ID 102, qty 6
+2026-11-24T05:55:41.820249 | Batch added: A-202 for medicine ID 102, qty 20
+2026-11-24T05:55:41.820249 | Batch added: C-301 for medicine ID 103, qty 15
+2026-11-24T05:55:41.821242 | Batch added: I-401 for medicine ID 104, qty 8
+2026-11-24T05:55:41.821242 | Batch added: Z-501 for medicine ID 105, qty 80
+2026-11-24T05:55:41.824268600 | Application started

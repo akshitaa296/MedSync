@@ -53,3 +53,94 @@
 2026-11-24T05:55:41.821242 | Batch added: I-401 for medicine ID 104, qty 8
 2026-11-24T05:55:41.821242 | Batch added: Z-501 for medicine ID 105, qty 80
 2026-11-24T05:55:41.824268600 | Application started
+2026-11-25T16:19:54.683060600 | Medicine added: Paracetamol 500mg (ID 101)
+2026-11-25T16:19:54.685106900 | Medicine added: Amoxicillin 250mg (ID 102)
+2026-11-25T16:19:54.686417800 | Medicine added: Cough Syrup (ID 103)
+2026-11-25T16:19:54.686417800 | Medicine added: Insulin Injection (ID 104)
+2026-11-25T16:19:54.687426200 | Medicine added: Cetirizine 10mg (ID 105)
+2026-11-25T16:19:54.698328700 | Batch added: P-101 for medicine ID 101, qty 100
+2026-11-25T16:19:54.698328700 | Batch added: P-102 for medicine ID 101, qty 40
+2026-11-25T16:19:54.699335800 | Batch added: A-201 for medicine ID 102, qty 6
+2026-11-25T16:19:54.699335800 | Batch added: A-202 for medicine ID 102, qty 20
+2026-11-25T16:19:54.700335400 | Batch added: C-301 for medicine ID 103, qty 15
+2026-11-25T16:19:54.700335400 | Batch added: I-401 for medicine ID 104, qty 8
+2026-11-25T16:19:54.701395700 | Batch added: Z-501 for medicine ID 105, qty 80
+2026-11-25T16:19:54.706496300 | Application started
+2026-11-25T16:21:58.756327600 | Medicine added: Paracetamol 500mg (ID 101)
+2026-11-25T16:21:58.758327700 | Medicine added: Amoxicillin 250mg (ID 102)
+2026-11-25T16:21:58.758327700 | Medicine added: Cough Syrup (ID 103)
+2026-11-25T16:21:58.759729100 | Medicine added: Insulin Injection (ID 104)
+2026-11-25T16:21:58.759729100 | Medicine added: Cetirizine 10mg (ID 105)
+2026-11-25T16:21:58.768061600 | Batch added: P-101 for medicine ID 101, qty 100
+2026-11-25T16:21:58.769061500 | Batch added: P-102 for medicine ID 101, qty 40
+2026-11-25T16:21:58.770060500 | Batch added: A-201 for medicine ID 102, qty 6
+2026-11-25T16:21:58.770060500 | Batch added: A-202 for medicine ID 102, qty 20
+2026-11-25T16:21:58.771061400 | Batch added: C-301 for medicine ID 103, qty 15
+2026-11-25T16:21:58.771061400 | Batch added: I-401 for medicine ID 104, qty 8
+2026-11-25T16:21:58.771061400 | Batch added: Z-501 for medicine ID 105, qty 80
+2026-11-25T16:21:58.774060 | Application started
+2026-11-25T16:22:21.947119100 | Medicine added: Paracetamol 500mg (ID 101)
+2026-11-25T16:22:21.950120 | Medicine added: Amoxicillin 250mg (ID 102)
+2026-11-25T16:22:21.951121500 | Medicine added: Cough Syrup (ID 103)
+2026-11-25T16:22:21.951121500 | Medicine added: Insulin Injection (ID 104)
+2026-11-25T16:22:21.952121900 | Medicine added: Cetirizine 10mg (ID 105)
+2026-11-25T16:22:21.959118700 | Batch added: P-101 for medicine ID 101, qty 100
+2026-11-25T16:22:21.959118700 | Batch added: P-102 for medicine ID 101, qty 40
+2026-11-25T16:22:21.960119100 | Batch added: A-201 for medicine ID 102, qty 6
+2026-11-25T16:22:21.960119100 | Batch added: A-202 for medicine ID 102, qty 20
+2026-11-25T16:22:21.961119800 | Batch added: C-301 for medicine ID 103, qty 15
+2026-11-25T16:22:21.961119800 | Batch added: I-401 for medicine ID 104, qty 8
+2026-11-25T16:22:21.961119800 | Batch added: Z-501 for medicine ID 105, qty 80
+2026-11-25T16:22:21.964122500 | Application started
+2026-11-25T16:25:20.003555100 | Medicine added: Paracetamol 500mg (ID 101)
+2026-11-25T16:25:20.006555 | Medicine added: Amoxicillin 250mg (ID 102)
+2026-11-25T16:25:20.006555 | Medicine added: Cough Syrup (ID 103)
+2026-11-25T16:25:20.006555 | Medicine added: Insulin Injection (ID 104)
+2026-11-25T16:25:20.007552600 | Medicine added: Cetirizine 10mg (ID 105)
+2026-11-25T16:25:20.013553900 | Batch added: P-101 for medicine ID 101, qty 100
+2026-11-25T16:25:20.014555 | Batch added: P-102 for medicine ID 101, qty 40
+2026-11-25T16:25:20.014555 | Batch added: A-201 for medicine ID 102, qty 6
+2026-11-25T16:25:20.015554200 | Batch added: A-202 for medicine ID 102, qty 20
+2026-11-25T16:25:20.015554200 | Batch added: C-301 for medicine ID 103, qty 15
+2026-11-25T16:25:20.015554200 | Batch added: I-401 for medicine ID 104, qty 8
+2026-11-25T16:25:20.016555500 | Batch added: Z-501 for medicine ID 105, qty 80
+2026-11-25T16:25:20.018556100 | Application started
+2026-11-25T16:49:31.873890 | Medicine added: Paracetamol 500mg (ID 101)
+2026-11-25T16:49:31.876407600 | Medicine added: Amoxicillin 250mg (ID 102)
+2026-11-25T16:49:31.877503300 | Medicine added: Cough Syrup (ID 103)
+2026-11-25T16:49:31.877503300 | Medicine added: Insulin Injection (ID 104)
+2026-11-25T16:49:31.878015300 | Medicine added: Cetirizine 10mg (ID 105)
+2026-11-25T16:49:31.884023800 | Batch added: P-101 for medicine ID 101, qty 100
+2026-11-25T16:49:31.885025600 | Batch added: P-102 for medicine ID 101, qty 40
+2026-11-25T16:49:31.885025600 | Batch added: A-201 for medicine ID 102, qty 6
+2026-11-25T16:49:31.886024700 | Batch added: A-202 for medicine ID 102, qty 20
+2026-11-25T16:49:31.886024700 | Batch added: C-301 for medicine ID 103, qty 15
+2026-11-25T16:49:31.887381200 | Batch added: I-401 for medicine ID 104, qty 8
+2026-11-25T16:49:31.888393300 | Batch added: Z-501 for medicine ID 105, qty 80
+2026-11-25T16:49:31.891602600 | Application started
+2026-11-25T16:49:34.929704800 | Medicine added: Paracetamol 500mg (ID 101)
+2026-11-25T16:49:34.931701500 | Medicine added: Amoxicillin 250mg (ID 102)
+2026-11-25T16:49:34.931701500 | Medicine added: Cough Syrup (ID 103)
+2026-11-25T16:49:34.932738700 | Medicine added: Insulin Injection (ID 104)
+2026-11-25T16:49:34.932738700 | Medicine added: Cetirizine 10mg (ID 105)
+2026-11-25T16:49:34.939673500 | Batch added: P-101 for medicine ID 101, qty 100
+2026-11-25T16:49:34.940672200 | Batch added: P-102 for medicine ID 101, qty 40
+2026-11-25T16:49:34.941671300 | Batch added: A-201 for medicine ID 102, qty 6
+2026-11-25T16:49:34.941671300 | Batch added: A-202 for medicine ID 102, qty 20
+2026-11-25T16:49:34.941671300 | Batch added: C-301 for medicine ID 103, qty 15
+2026-11-25T16:49:34.942674700 | Batch added: I-401 for medicine ID 104, qty 8
+2026-11-25T16:49:34.942674700 | Batch added: Z-501 for medicine ID 105, qty 80
+2026-11-25T16:49:34.944678500 | Application started
+2026-11-25T16:49:38.270048700 | Medicine added: Paracetamol 500mg (ID 101)
+2026-11-25T16:49:38.273043500 | Medicine added: Amoxicillin 250mg (ID 102)
+2026-11-25T16:49:38.273043500 | Medicine added: Cough Syrup (ID 103)
+2026-11-25T16:49:38.273043500 | Medicine added: Insulin Injection (ID 104)
+2026-11-25T16:49:38.274127600 | Medicine added: Cetirizine 10mg (ID 105)
+2026-11-25T16:49:38.281135600 | Batch added: P-101 for medicine ID 101, qty 100
+2026-11-25T16:49:38.282140500 | Batch added: P-102 for medicine ID 101, qty 40
+2026-11-25T16:49:38.282140500 | Batch added: A-201 for medicine ID 102, qty 6
+2026-11-25T16:49:38.283135900 | Batch added: A-202 for medicine ID 102, qty 20
+2026-11-25T16:49:38.283135900 | Batch added: C-301 for medicine ID 103, qty 15
+2026-11-25T16:49:38.284139500 | Batch added: I-401 for medicine ID 104, qty 8
+2026-11-25T16:49:38.284139500 | Batch added: Z-501 for medicine ID 105, qty 80
+2026-11-25T16:49:38.288619800 | Application started
